@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Melon Blog</title>
+  <title>Melon&#39;s Blog</title>
   
-  <subtitle>正在学习</subtitle>
+  <subtitle>一只菜鸡</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
