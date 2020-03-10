@@ -5,9 +5,9 @@
   <subtitle>一只菜鸡</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.melon.plus/"/>
   <updated>2020-01-19T15:59:14.666Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.melon.plus/</id>
   
   <author>
     <name>Melon</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>title</title>
-    <link href="http://yoursite.com/blog/title20200119/"/>
-    <id>http://yoursite.com/blog/title20200119/</id>
+    <link href="http://www.melon.plus/blog/title20200119/"/>
+    <id>http://www.melon.plus/blog/title20200119/</id>
     <published>2020-01-19T15:56:35.000Z</published>
     <updated>2020-01-19T15:59:14.666Z</updated>
     
@@ -37,8 +37,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/blog/hello-world20200118/"/>
-    <id>http://yoursite.com/blog/hello-world20200118/</id>
+    <link href="http://www.melon.plus/blog/hello-world20200118/"/>
+    <id>http://www.melon.plus/blog/hello-world20200118/</id>
     <published>2020-01-18T08:34:41.477Z</published>
     <updated>2020-01-19T08:21:09.659Z</updated>
     
